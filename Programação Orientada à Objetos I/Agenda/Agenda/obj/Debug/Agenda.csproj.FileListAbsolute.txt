@@ -1,0 +1,10 @@
+c:\users\olivej14\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+c:\users\olivej14\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+c:\users\olivej14\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+c:\users\olivej14\source\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+c:\users\olivej14\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+c:\users\olivej14\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+c:\users\olivej14\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+c:\users\olivej14\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
+c:\users\olivej14\source\repos\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+c:\users\olivej14\source\repos\Agenda\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
